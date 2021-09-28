@@ -135,6 +135,30 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Alisa",
+      "species": "Otter",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Alisa",
+      "species": "Otter",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }

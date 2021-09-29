@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "Start": "node index",
     "dev": "nodemon index"
   },
@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/DaveToth77/zookeeper#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jest": "^27.2.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
